@@ -1,6 +1,12 @@
+import Huhu from "./Huhu"
+
 function App() {
   return (
-    <h1>Holllaaaaaaaaa!!</h1>
+    <>
+      <Huhu/>
+      <h5>mango 🥭 apple 🍎 banana 🍌</h5>    
+    </>
+
   )
 }
 
